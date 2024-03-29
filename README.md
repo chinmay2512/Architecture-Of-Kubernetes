@@ -18,7 +18,7 @@
       * `Declarative Configuration:`
       * `Extensibility`
       * `Community Support`
-      * `Vendor Neutrality:`
+      * `Vendor Neutrality`
 
 ## Here We See Detail Explaination Of Above Points That Have Mentioned:
   - **Container Orchestration:**
