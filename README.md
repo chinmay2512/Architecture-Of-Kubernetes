@@ -54,7 +54,7 @@
     
 ## Architecture Of Kubernetes:
 
-<img src="https://github.com/AnupDudhe/CdecBatch24/blob/main/Vaibhav_Jorvekar_Task/Kubernetes/ARCHITECTURE%20OF%20KUBERNETES.jpg?raw=true"/>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20221230204459/Yellow-Greyscale-Script-Landscape-Photography-Blog-Banner.jpg"/>
 
 - **Kubernetes Cluster:**
     - In architecture, a Kubernetes cluster refers to a collection of nodes (machines) that are used to run containerized applications orchestrated by Kubernetes.
